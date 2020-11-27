@@ -7,7 +7,8 @@ While the paper proved the superiority of Random Forest algorithms on logistic r
 # 3.Research Questions
 1.  What is the best model to predict Civil war onset?
 2.  Do the different models agree on the weight of the different features in predicting civil war onset?
-#4.Proposed dataset
+
+# 4.Proposed dataset
 We will use the whole dataset given in the article ( Sambanis dataset) instead of only working on several features. 
 The dataset’s size is (7140* 285)  thus machine learning algorithms are suitable to analyze it within a reasonable timeframe. 
 We should be able to identify for each method which features are the most important and those features should have a mostly similar level of importance across the algorithms. We expect 3 features to be of great importance, the features that most civil war models use as “core features” (Sambanis and Helgre (2006)): the natural log of population (in the dataset lnpop), the length of peacetime until the outbreak of a war (pt8), and the natural log of per capita gross domestic product (GDP) in constant dollars (lngdp).
