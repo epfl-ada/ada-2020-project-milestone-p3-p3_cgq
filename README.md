@@ -14,7 +14,7 @@ We should be able to identify for each method which features are the most import
 
 # 5.Methods
 ## 1.   Comparing results of the different algorithms with AUC of the different ROC curves obtained on the testing set.
-We will need to implant the three algorithms of machine learning (RF was already coded in the previous P2 submission) then to calculate the scores for each model and to plot the ROC curves. 
+We will need to implant the three algorithms of machine learning then to calculate the scores for each model and to plot the ROC curves. 
 ## 2.   Look at the features weight to identify 4 - 5 important factors in each algorithm and compare them.
 We will need to calculate the mean decrease in a measure of predictive accuracy, called the Gini Score for each feature to identify the "top ones". 
 
