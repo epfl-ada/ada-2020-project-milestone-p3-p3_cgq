@@ -16,17 +16,17 @@ We should be able to identify for each method which features are the most import
 2.   Look at the features weight to identify 4 - 5 important factors in each algorithm and compare them.
 
 6.Proposed Timeline
-27.01-06.12
+- 27.01-06.12
 Draw the Roc curves of Random Forest, Neural Network and Support vector machine on the new data set.
-07.12-10.12
+- 07.12-10.12
 Compare the results obtained and deduce which is the best predicting algorithm
-11.12-14.12
+- 11.12-14.12
 Compare the importance of the features for the different algorithms
-15.12-18.12
+- 15.12-18.12
 Conclude
 
 7.Organization within the team
-Each of us will oversee 1 of the 3 algorithms for the first 10 days.
+ Each of us will oversee 1 of the 3 algorithms for the first 10 days.
 We will then join to compare the results we obtained.
 
 
