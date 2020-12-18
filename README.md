@@ -35,5 +35,7 @@ We will then join to compare the results we obtained and compare the dominant fe
 
 # 8.Participation
 Gianluca: Random Forest, Abstract, Introduction
+
 Quentin: Support Vector Machine, Important Features, Plot Design 
+
 Clement: Neural Network, Dealing with unbalanced dataset, Conclusion
