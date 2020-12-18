@@ -33,5 +33,7 @@ Conclude
 Each of us will oversee 1 of the 3 algorithms for the first 10 days. Quentin will take care of Random Forest, Clement of Neural Network and Gianluca of the support vector machine. 
 We will then join to compare the results we obtained and compare the dominant features in each algorithm. 
 
-
-
+# 8.Participation
+Gianluca: Random Forest, Abstract, Introduction
+Quentin: Support Vector Machine, Important Features, Plot Design 
+Clement: Neural Network, Dealing with unbalanced dataset, Conclusion
